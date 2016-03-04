@@ -6,6 +6,7 @@
   <packaging>pom</packaging>
   <modules>
   	<module>utils-email</module>
+  	<module>utils-similarity</module>
   </modules>
 
 	<properties>
