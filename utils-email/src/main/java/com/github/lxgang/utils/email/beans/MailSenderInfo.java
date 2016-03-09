@@ -1,4 +1,4 @@
-package com.github.lxgang.email.beans;
+package com.github.lxgang.utils.email.beans;
 
 import java.util.Arrays;
 import java.util.Properties;

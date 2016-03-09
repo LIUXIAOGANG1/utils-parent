@@ -1,10 +1,10 @@
-package com.github.lxgang.email.instance;
+package com.github.lxgang.utils.email.instance;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.github.lxgang.email.beans.EmailObj;
-import com.github.lxgang.email.beans.MailSenderInfo;
+import com.github.lxgang.utils.email.beans.EmailObj;
+import com.github.lxgang.utils.email.beans.MailSenderInfo;
 
 public class SendEmail {
 	private Logger logger = LoggerFactory.getLogger(SendEmail.class);

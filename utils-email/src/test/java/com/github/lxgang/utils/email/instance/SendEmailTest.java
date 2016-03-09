@@ -1,4 +1,4 @@
-package com.github.lxgang.email.instance;
+package com.github.lxgang.utils.email.instance;
 
 import javax.annotation.Resource;
 
@@ -9,7 +9,9 @@ import org.slf4j.LoggerFactory;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
-import com.github.lxgang.email.beans.EmailObj;
+import com.github.lxgang.utils.email.beans.EmailObj;
+import com.github.lxgang.utils.email.instance.SendEmail;
+import com.github.lxgang.utils.email.instance.SendEmailFactory;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(locations = {"classpath:applicationContext.xml"})

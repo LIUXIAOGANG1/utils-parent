@@ -1,4 +1,4 @@
-package com.github.lxgang.email.instance;
+package com.github.lxgang.utils.email.instance;
 
 import javax.mail.Authenticator;
 import javax.mail.PasswordAuthentication;

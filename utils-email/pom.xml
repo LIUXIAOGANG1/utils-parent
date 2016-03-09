@@ -7,7 +7,7 @@
   </parent>
   <artifactId>utils-email</artifactId>
   
-  <properties>
+	<properties>
 		<!-- Log Config -->
 		<version.org.slf4j>1.7.2</version.org.slf4j>
 		<version.org.apache.logging.log4j>2.1</version.org.apache.logging.log4j>

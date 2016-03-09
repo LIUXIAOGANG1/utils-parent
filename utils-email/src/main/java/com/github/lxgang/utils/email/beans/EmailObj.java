@@ -1,4 +1,4 @@
-package com.github.lxgang.email.beans;
+package com.github.lxgang.utils.email.beans;
 
 public class EmailObj {
 	private String emailAddress;

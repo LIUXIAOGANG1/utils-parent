@@ -1,4 +1,4 @@
-package com.github.lxgang.email.instance;
+package com.github.lxgang.utils.email.instance;
 
 import java.io.UnsupportedEncodingException;
 import java.util.Date;      
@@ -19,7 +19,7 @@ import javax.mail.internet.MimeMultipart;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.github.lxgang.email.beans.MailSenderInfo;
+import com.github.lxgang.utils.email.beans.MailSenderInfo;
 
 /**    
 * 邮件发送器
